@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "Developed by Satwik K Udupi (PravahaTattva Solutions, Karad) in collaboration with Yazid Abubakar Fakai. The research is the intellectual property of Yazid Abubakar Fakai. If you refer to it, please cite it as below."
+type: software
+title: "Savanna in Transition: Multi-Decadal Land Use and Land Cover Dynamics, Canopy Degradation Trajectories, and Multi-Sensor Ground-Truthing in Southern Kebbi, Nigeria (2000–2026)"
+authors:
+  - family-names: Udupi
+    given-names: Satwik K
+    affiliation: "JRF, CCCSS, SUK; PravahaTattva Solutions, Karad"
+  - family-names: Fakai
+    given-names: Yazid Abubakar
+    affiliation: "PhD Scholar"
+date-released: 2026-11-23
+license-url: "LICENSE"
+keywords:
+  - remote sensing
+  - land use and land cover change
+  - deforestation
+  - forest degradation
+  - Sudan-Guinea savanna
+  - Kebbi State
+  - Nigeria
+  - Landsat
+  - random forest
+  - Olofsson accuracy assessment
+preferred-citation:
+  type: thesis
+  thesis-type: "Doctoral research"
+  title: "Multi-Decadal Land Use and Land Cover Dynamics, Canopy Degradation Trajectories, and Multi-Sensor Ground-Truthing in the Sudan-Guinea Savanna Transition Zone: A 25-Year Remote Sensing Assessment of Southern Kebbi, Nigeria (2000–2026)"
+  authors:
+    - family-names: Fakai
+      given-names: Yazid Abubakar
+    - family-names: Udupi
+      given-names: Satwik K
+  year: 2026

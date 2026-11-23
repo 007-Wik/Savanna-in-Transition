@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Large input data (see data/README.md)
+data/*
+!data/README.md
+
+# Large intermediate outputs
+outputs/rasters/*.tif
+outputs/reports/*.docx
+outputs/reports/Southern_Kebbi_PhD_Standalone_Dashboard.html
+view_results.html
+
+# Archives and GIS sidecars
+*.zip
+*.aux.xml
+*.ovr
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+.claude/

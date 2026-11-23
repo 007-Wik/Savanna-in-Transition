@@ -1,0 +1,23 @@
+{
+  "Forest_to_Agriculture": {
+    "raw_ha": 124496.73,
+    "hiconf_ha": 4565.97,
+    "raw_pix": 1383297,
+    "hiconf_pix": 50733,
+    "mean_ndvi_drop": -0.019977519288659096
+  },
+  "Forest_to_Grassland": {
+    "raw_ha": 34627.68,
+    "hiconf_ha": 7906.7699999999995,
+    "raw_pix": 384752,
+    "hiconf_pix": 87853,
+    "mean_ndvi_drop": 0.027534861117601395
+  },
+  "Forest_to_Bare": {
+    "raw_ha": 14495.22,
+    "hiconf_ha": 2004.03,
+    "raw_pix": 161058,
+    "hiconf_pix": 22267,
+    "mean_ndvi_drop": 0.0034298959653824568
+  }
+}

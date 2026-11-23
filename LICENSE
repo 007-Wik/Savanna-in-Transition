@@ -1,0 +1,32 @@
+Copyright (c) 2026 Yazid Abubakar Fakai. All rights reserved.
+
+This repository and everything it contains, including source code,
+methodology, maps, figures, animations, tables, vector data, reports and
+written analysis (together, "the Work"), is the intellectual property of
+Yazid Abubakar Fakai, PhD Scholar, and forms part of that doctoral research.
+
+The analysis and software were developed by Satwik K Udupi (Junior Research
+Fellow, CCCSS, SUK; PravahaTattva Solutions, Karad) in collaboration with
+Yazid Abubakar Fakai.
+
+The Work is made publicly visible for viewing, peer review and academic
+citation only. No licence is granted to copy, modify, merge, publish,
+distribute, sublicense, sell, or create derivative works from the Work, in
+whole or in part, without the prior written permission of the copyright
+holder.
+
+Brief quotation and reference for scholarly purposes is permitted, provided
+the Work is cited as described in README.md and CITATION.cff.
+
+Third-party data
+----------------
+Satellite and geospatial datasets used by the Work (Landsat, Esri Sentinel-2
+Land Use/Land Cover, ESA WorldCover, Hansen Global Forest Change, SRTM,
+MODIS MOD44B and administrative boundaries) remain the property of their
+respective providers and are subject to their own licences and attribution
+requirements, listed in docs/DATA_SOURCES.md. Nothing in this notice
+restricts rights those providers grant.
+
+THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR
+OTHER LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION WITH THE WORK.

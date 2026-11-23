@@ -1,0 +1,65 @@
+[
+  {
+    "LGA": "Zuru",
+    "Forest_to_Agriculture_raw_ha": 1432.53,
+    "Forest_to_Agriculture_hiconf_ha": 8.19,
+    "Forest_to_Grassland_raw_ha": 329.13,
+    "Forest_to_Grassland_hiconf_ha": 21.06,
+    "Forest_to_Bare_raw_ha": 222.75,
+    "Forest_to_Bare_hiconf_ha": 13.77
+  },
+  {
+    "LGA": "Fakai",
+    "Forest_to_Agriculture_raw_ha": 14962.5,
+    "Forest_to_Agriculture_hiconf_ha": 202.14,
+    "Forest_to_Grassland_raw_ha": 2445.66,
+    "Forest_to_Grassland_hiconf_ha": 501.29999999999995,
+    "Forest_to_Bare_raw_ha": 3658.0499999999997,
+    "Forest_to_Bare_hiconf_ha": 140.48999999999998
+  },
+  {
+    "LGA": "Shanga",
+    "Forest_to_Agriculture_raw_ha": 12160.529999999999,
+    "Forest_to_Agriculture_hiconf_ha": 140.76,
+    "Forest_to_Grassland_raw_ha": 1141.83,
+    "Forest_to_Grassland_hiconf_ha": 117.81,
+    "Forest_to_Bare_raw_ha": 1732.32,
+    "Forest_to_Bare_hiconf_ha": 151.92
+  },
+  {
+    "LGA": "Sakaba",
+    "Forest_to_Agriculture_raw_ha": 16541.01,
+    "Forest_to_Agriculture_hiconf_ha": 804.87,
+    "Forest_to_Grassland_raw_ha": 8655.3,
+    "Forest_to_Grassland_hiconf_ha": 2217.87,
+    "Forest_to_Bare_raw_ha": 1921.9499999999998,
+    "Forest_to_Bare_hiconf_ha": 287.90999999999997
+  },
+  {
+    "LGA": "Yauri",
+    "Forest_to_Agriculture_raw_ha": 15074.91,
+    "Forest_to_Agriculture_hiconf_ha": 578.79,
+    "Forest_to_Grassland_raw_ha": 3062.25,
+    "Forest_to_Grassland_hiconf_ha": 523.62,
+    "Forest_to_Bare_raw_ha": 1276.29,
+    "Forest_to_Bare_hiconf_ha": 201.95999999999998
+  },
+  {
+    "LGA": "Danko Wasagu",
+    "Forest_to_Agriculture_raw_ha": 37437.21,
+    "Forest_to_Agriculture_hiconf_ha": 2178.36,
+    "Forest_to_Grassland_raw_ha": 13143.6,
+    "Forest_to_Grassland_hiconf_ha": 3611.79,
+    "Forest_to_Bare_raw_ha": 2564.2799999999997,
+    "Forest_to_Bare_hiconf_ha": 775.98
+  },
+  {
+    "LGA": "Ngaski",
+    "Forest_to_Agriculture_raw_ha": 26888.039999999997,
+    "Forest_to_Agriculture_hiconf_ha": 652.86,
+    "Forest_to_Grassland_raw_ha": 5849.91,
+    "Forest_to_Grassland_hiconf_ha": 913.3199999999999,
+    "Forest_to_Bare_raw_ha": 3119.58,
+    "Forest_to_Bare_hiconf_ha": 432.0
+  }
+]
