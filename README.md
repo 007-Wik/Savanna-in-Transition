@@ -29,6 +29,7 @@
 
 > [!IMPORTANT]
 > 📦 **Download:** all input data and output rasters are in the [v1.0-data release](https://github.com/007-Wik/Savanna-in-Transition/releases/tag/v1.0-data).
+> 
 > **Ownership.** This research, including its methodology, source code, maps, figures, tables and written analysis, was carried out by **Satwik K Udupi** (JRF, CCCSS, SUK · PravahaTattva Solutions, Karad) in collaboration with **Yazid Abubakar Fakai** (PhD Scholar), and is the intellectual property of **Yazid Abubakar Fakai**. It is published for viewing and academic reference only. No reuse, redistribution or derivative work is permitted without written permission. See [LICENSE](LICENSE) and [How to cite](#-how-to-cite).
 
 ## Contents
